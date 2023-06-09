@@ -1,0 +1,13 @@
+Cara Intalasi: 
+1. Masukan folder ke htdocs
+2. Buat database dengan nama "absensi-pegawai"
+3. Import file absensi-pegawai.sql ke database
+4. Jalankan pada browser
+
+Pegawai login:
+nip: 104 
+pass : 123
+
+Admin login:
+nip: 113
+pass: admin
